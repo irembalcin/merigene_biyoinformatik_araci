@@ -1,6 +1,6 @@
 # 🧬 MeriGene - Genetik Laboratuvar Asistanı
 
-🚀 **Canlı Demo:** [MeriGene Uygulamasını Test Etmek İçin Tıklayın](https://senin-netlify-linkin.netlify.app)
+🚀 **Canlı Demo:** [MeriGene Uygulamasını Test Etmek İçin Tıklayın](https://merigenebiyoinformatik.netlify.app/)
 
 MeriGene, moleküler genetik laboratuvarlarındaki varyant analiz, ACMG sınıflandırması ve Sanger sekanslama süreçlerini dijital ortamda takip etmek için geliştirilmiş modern bir web asistanıdır. Laboratuvar teknisyenleri ve biyoinformatik uzmanları için tasarlanan bu araç, karmaşık veri tabloları arasında kaybolmadan hasta varyantlarını şık bir arayüzle yönetmeyi sağlar.
 
